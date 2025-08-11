@@ -4,5 +4,7 @@ public class Test2 {
 		System.out.println("ab");
 		System.out.println("AB");
 		System.out.println("cd");
+		System.out.println("12345");
+		System.out.println("67890");
 	}
 }
